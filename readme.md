@@ -122,8 +122,8 @@ JSX files contain <b>React-Notes</b> pages such as creating notes, editing notes
 `CreateNote.jsx` - This file describe the UI and functionality of create note page.\
 `EditNote.jsx` - This file describe the UI and functionality of edit note page.\
 `Note.jsx` - This file describe the UI and functionality of feed notes page.
-  
-<br/>
+
+
 <!-- TechStack -->
 ### :space_invader: Tech Stack
   
