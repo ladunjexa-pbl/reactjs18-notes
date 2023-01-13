@@ -71,7 +71,7 @@
 ## :star2: About the Project
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/egattor/react-notes-starter/main/thumbnail.jpg" height="auto" width="75%"/>
+  <img src="https://raw.githubusercontent.com/egattor/react-notes-starter/main/thumbnail.jpg" height="auto" width="80%"/>
 </div>
 
 <br />
@@ -124,7 +124,6 @@ JSX files contain <b>React-Notes</b> pages such as creating notes, editing notes
 `Note.jsx` - This file describe the UI and functionality of feed notes page.
   
 <br/>
-  
 <!-- TechStack -->
 ### :space_invader: Tech Stack
   
