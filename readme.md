@@ -33,7 +33,7 @@
 </p>
    
  <h4>
-    <a href="https://github.com/ladunjexa/React-Notes-App/">View Demo</a>
+    <a href="https://react-notes-app-lac.vercel.app/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/ladunjexa/React-Notes-App">Documentation</a>
   <span> · </span>
